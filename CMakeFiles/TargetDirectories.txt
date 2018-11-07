@@ -1,5 +1,0 @@
-/home/aleksandra/eclipse-workspace/SLL/src/CMakeFiles/rebuild_cache.dir
-/home/aleksandra/eclipse-workspace/SLL/src/CMakeFiles/edit_cache.dir
-/home/aleksandra/eclipse-workspace/SLL/src/CMakeFiles/test.dir
-/home/aleksandra/eclipse-workspace/SLL/src/CMakeFiles/Singlelinkedlist.dir
-/home/aleksandra/eclipse-workspace/SLL/src/CMakeFiles/Singlelinkedlist_ut.dir
