@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "SLL.h"
-//#include "Singlelinkedlist.c"
+#include "Singlelinkedlist.h"
 
-
-//int main(void)
-//{
-//	return 0;
-//}
+int main(void)
+{
+	return 0;
+}
