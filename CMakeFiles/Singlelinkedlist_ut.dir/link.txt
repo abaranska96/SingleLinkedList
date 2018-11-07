@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Singlelinkedlist_ut.dir/src/Tests.c.o  -o Singlelinkedlist_ut 
