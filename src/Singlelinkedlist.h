@@ -16,7 +16,6 @@ typedef struct ListS
 {
 	NodeS* Head;
 
-
 }ListS;
 
 int AddElement (ListS* element, const int addElements);
